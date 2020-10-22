@@ -1,0 +1,25 @@
+.banner {
+  color: white;
+  padding: 150px;
+  background-size: cover;
+  background-position: 100% 50%;
+  text-align: center;
+  background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url('background.jpg');
+}
+
+.banner h1 {
+  font-size: 50px;
+  margin-bottom: 0;
+  text-shadow: 2px 2px 2px black;
+  text-align: center;
+  line-height: 60px;
+}
+
+.banner p {
+  font-size: 24px;
+  margin: 0 0 0 60px 0;
+  text-shadow: 1px 1px 1px black;
+  text-align: center;
+  margin-bottom: 50px;
+  font-family: Poppins;
+}

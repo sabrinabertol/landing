@@ -1,0 +1,30 @@
+.footer {
+  background-color: rgb(40, 40, 40);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.list-inline {
+  padding: 0px;
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline;
+  padding-left: 0px;
+  padding: 10px;
+}
+
+.list-inline i {
+  font-size: 50px;
+  color: rgb(200, 200, 200);
+}
+
+.list-inline i:hover {
+  color: rgba(200, 200, 200, 0.5);
+}
+
+.footer p {
+  font-size: 14px;
+}
